@@ -41,7 +41,7 @@ const Secao2 = () => {
                 </li>
                 <li key={"2.2"}>
                     <TfiThought className={styles.icon} size={30} />
-                    Medos, fobias, baixa autoestima, inseguranças, timidez, stress, TOC, gagueira e vícios.
+                    Medos, fobias, baixa autoestima, inseguranças, timidez, estresse, TOC, gagueira e vícios.
                 </li>
                 <li key={"3.2"}>
                     <TfiThought className={styles.icon} size={30} />
