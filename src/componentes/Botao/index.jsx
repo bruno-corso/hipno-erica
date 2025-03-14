@@ -9,7 +9,7 @@ const Botao = ({ children, styles, clique, acao }) => {
             {
                 clique === 'rolagem'?
                 <button className={style.botao} style={styles} onClick={acao}>{children}</button> 
-                :   <ReactWhatsapp className={style.botao} style={styles} number='+5511997757009' message='Olá, gostaria de saber mais!'>{children}</ReactWhatsapp>
+                :   <ReactWhatsapp className={style.botao} style={styles} number='+5511991636906' message='Olá, gostaria de saber mais!'>{children}</ReactWhatsapp>
             }
         </div>
     );
